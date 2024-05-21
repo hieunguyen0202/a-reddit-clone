@@ -1,3 +1,3 @@
 # Reddit Clone App on Kubernetes
 
-![Devops-Jenkins-Docker drawio](https://github.com/hieunguyen0202/a-reddit-clone/assets/98166568/10fe0f05-bece-4c29-8652-a8e056103419)
+![Devops-Jenkins-Docker](https://github.com/hieunguyen0202/a-reddit-clone/assets/98166568/59fc2e82-0b66-4a85-bd90-32ca1ac36a31)
