@@ -14,7 +14,6 @@ pipeline {
         IMAGE_TAG = "${RELEASE}-${BUILD_NUMBER}"
 	JENKINS_API_TOKEN = credentials("JENKINS_API_TOKEN")
     }
-	
     stages {
         stage('clean workspace') {
             steps {
